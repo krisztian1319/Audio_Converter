@@ -7,5 +7,12 @@ based off of real data compiled from scientific sources.
 TO RUN:
 
 DOWNLOAD PROCESSING 4
+
 DOWNLOAD P5 AND BEADS LIBRARY
+
 DOWNLOAD TEXT TO TEXT-TO-SPEECH MODULE FROM THE LIST IN PROCESSING
+
+CHECK THE USER MANUAL PDF FOR WORKING THE PROGRAM
+
+This file re-upload also comes with the write-up which includes user testing and improvements in the file. The file report has a detailed
+guide on how the sound-based conversion works and how it should be improved based on user input.
